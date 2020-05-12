@@ -6,6 +6,8 @@
 
 
 
+
+
 <div align="center">
   <strong>Customer-centric e-commerce on a modern stack</strong>
 </div>
